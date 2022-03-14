@@ -7,6 +7,7 @@ or by using the web inspector in the browser. Then, rewrite the css rules in the
 take precedence the ones in this file. */
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@200;700&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@200;700&display=swap');
+@import url("https://use.typekit.net/ulm3zpt.css");
 
 /* Reset */
 
@@ -1591,7 +1592,7 @@ take precedence the ones in this file. */
 
 	body, input, select, textarea {
 		/* font-family: "Lato", Arial, Helvetica, sans-serif; */
-		font-family: 'IBM Plex Serif', serif;
+		font-family: utopia-std, serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
