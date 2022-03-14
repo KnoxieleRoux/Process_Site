@@ -7,7 +7,7 @@
 Just un comment the #banner rule below. */
 #banner {
   /* background-image: url(../../images/pic01.jpg); */
-  background-color:lightsalmon;
+  background-color: rgb(190,103,72);
   background-size: cover;
   color: lightsalmon;
   /* text-shadow: 1px 1px 15px #333; */
